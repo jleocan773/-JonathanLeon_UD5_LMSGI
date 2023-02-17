@@ -1,0 +1,35 @@
+5.1
+
+Insertar varios libros más en el fichero XML indicando cuyo coste sea inferior a 10.50€
+Insertar el dato número de páginas en cada libro contenido en el fichero XML inicial. Por ejemplo el elemento será <numPaginas>150<numPaginas>
+Cambiar el titulo de la tabla a "Mi Biblioteca Personal"
+Cambiar color tabla
+Aadir columna al final Precio
+Añadir columna al principio ISBN
+
+
+5.2
+Ordenar por Precio
+Añadir un nuevo libro con un autor anterior
+Buscar libros de ese autor, ordenar por Precio
+Buscar libros que no sean de ese autor
+
+
+5.3
+Añadir dos libros nuevo autor, precios -> 10.50 y 12.50
+Realizar un fichero que busque los libros con coste superior a 10
+Añadir solo aquellos cuyo autor sea el último añadido
+Cambiar la condicion anterior para que el coste sea superior a 12
+
+
+5.4
+Añadir al fichero dos libros de nuevo autor
+Nuevos libros se pintan del color indicado 
+Añadir precio al final y ISBN al principio de la tabla resultados
+Cambiar colores, rojo > 25 y verde < 25
+
+5.5
+Añadir dato numPaginas
+Añadir precio y numPaginas al final
+Añadir ISBN al principio
+numPaginas en rojo si + 150

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="cds.xsl" type="text/xsl"?>
+<cds>
+    <cd>
+        <albumTitulo>Thriller</albumTitulo>
+        <artista>Michael Jackson</artista>
+        <cancionesYtiempo>
+            «Wanna Be Startin' Somethin'» 6:03
+            «Baby Be Mine» 4:20
+            «The Girl Is Mine» 3:42
+            «Thriller» 5:57
+            «Beat It» 4:19
+            «Billie Jean» 4:54
+            «Human Nature» 4:05
+            «P.Y.T. (Pretty Young Thing)» 3:58
+            «The Lady in My Life» 4:59	
+        </cancionesYtiempo>
+        <selloDiscografico>Westlake Recording</selloDiscografico>
+        <añopublicacion>    1982</añopublicacion>
+    </cd>
+    <cd>
+        <albumTitulo>The Dark Side of the Moon</albumTitulo>
+        <artista>Pink Floyd</artista>
+        <cancionesYtiempo>
+            «Speak to Me» 1:07
+            «Breathe» 2:49
+            «On the Run» 3:45
+            «Time» 6:53
+            «The Great Gig in the Sky» 4:44
+            «Money»	6:23
+            «Us and Them» 7:49
+            «Any Colour You Like» 3:26
+            «Brain Damage» 3:46
+            «Eclipse» 2:12
+        </cancionesYtiempo>
+        <selloDiscografico>Harvest Records</selloDiscografico>
+        <añopublicacion>1973</añopublicacion>
+    </cd>
+    <cd>
+        <albumTitulo>The Bodyguard</albumTitulo>
+        <artista>Whitney Houston</artista>
+        <cancionesYtiempo>
+            « I Will Always Love You» 4:31
+        	«I Have Nothing» 4:50
+        	«I'm Every Woman» 4:46
+        	«Run to You» 4:24
+        	«Queen Of The Night» 3:08
+        	«Jesus Loves Me» 5:11
+        	«Even If My Heart Would Break» 4:58
+        	«Someday (I'm Coming Back)» 4:57
+        	«It's Gonna Be A Lovely Day» 4:47
+        	«(What's So Funny 'Bout) Peace, Love And Understanding» 4:04
+        	«Waiting For You» 4:54
+        	«Trust In Me» 4:12
+        	«Theme From The Bodyguard» 2:40
+        </cancionesYtiempo>
+        <selloDiscografico>Arista</selloDiscografico>
+        <añopublicacion>1992</añopublicacion>
+    </cd>
+    <cd>
+        <albumTitulo>Back in Black</albumTitulo>
+        <artista>AC/DC</artista>
+        <cancionesYtiempo>
+            «Hells Bells»	5:13
+            «Shoot to Thrill»	5:20
+            «What Do You Do for Money Honey»	3:36
+            «Givin the Dog a Bone»	3:32
+            «Let Me Put My Love Into You»	4:16
+            «Back in Black»	4:16
+            «You Shook Me All Night Long»	3:31
+            «Have a Drink on Me»	4:00
+            «Shake a Leg»	4:06
+            «Rock 'n' Roll Ain't Noise Pollution»
+        </cancionesYtiempo>
+        <selloDiscografico>Atco Records</selloDiscografico>
+        <añopublicacion>1980</añopublicacion>
+    </cd>
+    <cd>
+        <albumTitulo>Bat out of Hell</albumTitulo>
+        <artista>Meat Loaf</artista>
+        <cancionesYtiempo>	
+            1   "Bat out of Hell" 9:48
+            2	"You Took the Words Right Out of My Mouth (Hot Summer Night)" 5:04
+            3	"Heaven Can Wait" 4:38
+            4	"All Revved Up with No Place to Go"	4:19
+            5 "Two Out of Three Ain't Bad" 5:23
+            6	"Paradise by the Dashboard Light" 8:28
+            7	"For Crying Out Loud" 8:45
+        </cancionesYtiempo>
+        <selloDiscografico>	Cleveland International Records</selloDiscografico>
+        <añopublicacion>1977</añopublicacion>
+    </cd>
+    <cd>
+        <albumTitulo>Their Greatest Hits (1971-1975)</albumTitulo>
+        <artista>Eagles</artista>
+        <cancionesYtiempo>
+            1. "Take It Easy" (Jackson Browne, Glenn Frey)"	3:32
+            2.	"Witchy Woman" (Don Henley, Bernie Leadon)'" 4:11
+            3.	"Lyin' Eyes" (Henley, Frey)" 6:22
+            4.	"Already Gone" (Jack Tempchin, Robert Arnold Strandlund)" 4:13
+            5.	"Desperado "(Henley, Frey)"	3:33
+            6.	"One of These Nights (Henley, Frey)" 4:51
+            7.	"Tequila Sunrise" "(Henley, Frey)'"	2:52
+            8.	"Take It to the Limit" (Randy Meisner, Henley, Frey)" 4:48
+            9.	"Peaceful Easy Feeling" (Tempchin)"	4:18
+            10.	"Best of My Love" (Henley, Frey, J.D. Souther)"	4:35
+        </cancionesYtiempo>
+        <selloDiscografico></selloDiscografico>
+        <añopublicacion></añopublicacion>
+    </cd>
+    <cd>
+        <albumTitulo></albumTitulo>
+        <artista></artista>
+        <cancionesYtiempo></cancionesYtiempo>
+        <selloDiscografico></selloDiscografico>
+        <añopublicacion></añopublicacion>
+    </cd>
+    <cd>
+        <albumTitulo></albumTitulo>
+        <artista></artista>
+        <cancionesYtiempo></cancionesYtiempo>
+        <selloDiscografico></selloDiscografico>
+        <añopublicacion></añopublicacion>
+    </cd>
+    <cd>
+        <albumTitulo></albumTitulo>
+        <artista></artista>
+        <cancionesYtiempo></cancionesYtiempo>
+        <selloDiscografico></selloDiscografico>
+        <añopublicacion></añopublicacion>
+    </cd>
+    <cd>
+        <albumTitulo></albumTitulo>
+        <artista></artista>
+        <cancionesYtiempo></cancionesYtiempo>
+        <selloDiscografico></selloDiscografico>
+        <añopublicacion></añopublicacion>
+    </cd>
+</cds>

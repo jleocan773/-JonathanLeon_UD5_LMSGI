@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 
+Dos libros de un nuevo autor, precios 10.50 y 60.50
+Añadir las columnas precio al final e ISBN al principio
+Cambiar el color de los datos si, si coste > 25, pintar en rojo; si coste < 25, pintar en verde
+-->
+
 <?xml-stylesheet type="text/xsl" href="libreria.xsl"?>
 <libreria>
     <libro>

@@ -1,4 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 
+Dos libros de un nuevo autor
+Mostrar solo libros precio > 10
+Mostrar solo libros de este nuevo autor
+Mostrar solo libros precio > 12
+-->
+
 <?xml-stylesheet type="text/xsl" href="libreria.xsl"?>
 <libreria>
     <libro>

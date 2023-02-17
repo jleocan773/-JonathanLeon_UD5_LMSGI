@@ -1,4 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 
+Ordenar por precio
+Nuevo libro con autor repetido
+Buscar libros de ese autor, ordenados por precio
+Buscar todos los libros que NO SEAN del autor anterior
+-->
+
 <?xml-stylesheet type="text/xsl" href="libreria.xsl"?>
 <libreria>
     <libro>

@@ -1,4 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 
+Insertar dato numPaginas
+Añadir columnas precio y numPaginas al final de la tabla
+Añadir ISBN al principio
+Mostrar en rojo el color de los datos si numPaginas > 500
+-->
+
 <?xml-stylesheet type="text/xsl" href="libreria.xsl"?>
 <libreria>
     <libro>

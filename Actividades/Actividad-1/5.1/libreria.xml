@@ -1,4 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 
+Insertar varios libros más
+Insertar dato numPagina
+Cambiar título tabla a Mi Biblioteca Personal
+Cambiar color de la tabla
+Añadir columna precio al final
+Añadir columna ISBN al principio
+-->
+
 <?xml-stylesheet type="text/xsl" href="libreria.xsl"?>
 <libreria>
     <libro>

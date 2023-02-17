@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="libreria.xsl"?>
+<libreria>
+    <libro>
+        <titulo>Physics-based animation</titulo>
+        <autor>Kenny Erleben</autor>
+        <editor>Charles River Media</editor>
+        <isbn>978-1584503804</isbn>
+        <precio>50.06</precio>
+        <numPaginas>830</numPaginas>
+    </libro>
+    <libro>
+        <titulo>Principios de seguridad informatica para usuarios</titulo>
+        <autor>Carlos Garre</autor>
+        <editor>Dykinson</editor>
+        <isbn>978-84-9849-998-8</isbn>
+        <precio>13.00</precio>
+        <numPaginas>120 </numPaginas>
+    </libro>
+    <libro>
+        <titulo>Ejercicios complementarios de logica digital</titulo>
+        <autor>Alberto Sanchez</autor>
+        <editor>Dykinson</editor>
+        <isbn>978-84-9849-703-8</isbn>
+        <precio>12.00</precio>
+        <numPaginas>98 </numPaginas>
+    </libro>
+    <libro>
+        <titulo>Don Quijote de la Mancha</titulo>
+        <autor>Miguel de Cervantes</autor>
+        <editor>Imprenta de Juan de la Cuesta</editor>
+        <isbn>9780936388878</isbn>
+        <precio>9.76</precio>
+        <numPaginas>1424</numPaginas>
+    </libro>
+    <libro>
+        <titulo>Historia de dos ciudades</titulo>
+        <autor>Charles John Huffam Dickens</autor>
+        <editor>Chapman And Hall</editor>
+        <isbn>9780140430547</isbn>
+        <precio>7.60</precio>
+        <numPaginas>488</numPaginas>
+    </libro>
+    <libro>
+        <titulo>El Señor de los Anillos</titulo>
+        <autor>John Ronald Reuel Tolkien</autor>
+        <editor>George Allen And Unwin HarperCollins</editor>
+        <isbn>9788845292613</isbn>
+        <precio>10.49</precio>
+        <numPaginas>1392</numPaginas>
+    </libro>
+    <libro>
+        <titulo>El Hobbit</titulo>
+        <autor>John Ronald Reuel Tolkien</autor>
+        <editor>George Allen And Unwin HarperCollins</editor>
+        <isbn>9780044403371</isbn>
+        <precio>10.00</precio>
+        <numPaginas>398</numPaginas>
+    </libro>
+    <libro>
+        <titulo>El Archivo de las Tormentas</titulo>
+        <autor>Brandon Sanderson</autor>
+        <editor>NOVA</editor>
+        <isbn>9788413143941</isbn>
+        <precio>10.00</precio>
+        <numPaginas>1100</numPaginas>
+    </libro>
+    <libro>
+        <titulo>El Camino de los Reyes</titulo>
+        <autor>Brandon Sanderson</autor>
+        <editor>NOVA</editor>
+        <isbn>12228213133255</isbn>
+        <precio>12.50</precio>
+        <numPaginas>1200</numPaginas>
+    </libro>
+    <libro>
+        <titulo>El Camino de los Reyes</titulo>
+        <autor>Brandon Sanderson</autor>
+        <editor>NOVA</editor>
+        <isbn>12228213133255</isbn>
+        <precio>12.50</precio>
+        <numPaginas>1200</numPaginas>
+    </libro>
+    <libro>
+        <titulo>El Trepanador de Cerebros </titulo>
+        <autor>Sara Mesa</autor>
+        <editor>Casa Del Libro</editor>
+        <isbn>9788496911253</isbn>
+        <precio>10.50</precio>
+        <numPaginas>257</numPaginas>
+    </libro>
+    <libro>
+        <titulo>La sobriedad del galápago</titulo>
+        <autor>Sara Mesa</autor>
+        <editor>Casa Del Libro</editor>
+        <isbn>9788477961772</isbn>
+        <precio>60.50</precio>
+        <numPaginas>224</numPaginas>
+    </libro>
+</libreria>

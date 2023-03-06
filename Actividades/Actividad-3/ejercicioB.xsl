@@ -3,8 +3,8 @@
   <xsl:output method="text"/>
   <xsl:template match="/">
     <xsl:for-each select="raíz/registro">
-      <xsl:value-of select="título"/>
-      <xsl:text>&#xA;</xsl:text>
+      [<xsl:value-of select="identificador"/>]
+      <xsl:value-of select="texto"/>
     </xsl:for-each>
   </xsl:template>
 </xsl:stylesheet>

@@ -3,7 +3,7 @@
   <xsl:output method="text"/>
   <xsl:template match="/">
     <xsl:for-each select="raíz/registro">
-      <xsl:value-of select="título"/>
+      <xsl:value-of select="título"/>&#160;<xsl:value-of select="fecha/@cuándo"/>
       <xsl:text>&#xA;</xsl:text>
     </xsl:for-each>
   </xsl:template>

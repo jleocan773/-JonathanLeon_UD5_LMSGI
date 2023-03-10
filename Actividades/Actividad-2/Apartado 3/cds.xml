@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="cd_p3.xsl" type="text/xsl"?>
+<cds>
+    <cd>
+        <albumTitulo>Thriller</albumTitulo>
+        <artista>Michael Jackson</artista>
+            <cancion  duracion="180">1 «Wanna Be Startin' Somethin'»
+                <duracion>180</duracion></cancion>
+            <cancion  duracion="160">2 «Baby Be Mine»  
+                <duracion>160</duracion></cancion >
+            <cancion  duracion="280">3 «The Girl Is Mine»  
+                <duracion>280</duracion></cancion>
+            <cancion  duracion="180">4 «Thriller»  
+                <duracion>180</duracion> </cancion>
+            <cancion  duracion="240">6 «Beat It»  
+                <duracion>240</duracion> </cancion>
+            <cancion  duracion="240">7 «Billie Jean» 
+                <duracion>240</duracion> </cancion>
+            <cancion  duracion="250">8 «Human Nature»  
+                <duracion>250</duracion> </cancion>
+            <cancion  duracion="170">8 «P.Y.T. (Pretty Young Thing)»  
+                <duracion>170</duracion> </cancion>
+            <cancion  duracion="120">9 «The Lady in My Life»  
+                <duracion>120</duracion> </cancion>
+        <selloDiscografico>Westlake Recording</selloDiscografico>
+        <añopublicacion>1982</añopublicacion>
+    </cd>
+    <cd>
+        <albumTitulo>The Dark Side of the Moon</albumTitulo>
+        <artista>Pink Floyd</artista>
+            <cancion duracion="180">1 «Speak to Me»
+                <duracion>180</duracion></cancion>
+            <cancion duracion="180">2 «Breathe»
+                <duracion>180</duracion></cancion>
+            <cancion duracion="120">3 «On the Run»
+                <duracion>120</duracion></cancion>
+            <cancion duracion="160">4 «Time»
+                <duracion>160</duracion></cancion>
+            <cancion duracion="190">5 «The Great Gig in the Sky»
+                <duracion>190</duracion></cancion>
+            <cancion duracion="180">6 «Money»
+                <duracion>180</duracion></cancion>
+            <cancion duracion="120">7 «Us and Them»
+                <duracion>120</duracion></cancion>
+            <cancion duracion="160">8 «Any Colour You Like»
+                <duracion>160</duracion></cancion>
+            <cancion duracion="160">9 «Brain Damage»
+                <duracion>160</duracion></cancion>
+            <cancion duracion="160">10 «Eclipse»  </cancion>
+        <selloDiscografico>Harvest Records</selloDiscografico>
+        <añopublicacion>1973</añopublicacion>
+    </cd>
+    <cd>
+        <albumTitulo>The Bodyguard</albumTitulo>
+        <artista>Whitney Houston</artista>
+            <cancion duracion="180">1 «I Will Always Love You»
+                <duracion>180</duracion>  </cancion>
+        	<cancion duracion="180">2 «I Have Nothing»
+                <duracion>180</duracion>  </cancion>
+        	<cancion duracion="160">3 «I'm Every Woman»
+                <duracion>160</duracion>  </cancion>
+        	<cancion duracion="120">4 «Run to You»
+                <duracion>120</duracion>  </cancion>
+        	<cancion duracion="150">5 «Queen Of The Night»
+                <duracion>150</duracion>  </cancion>
+        	<cancion duracion="160">6 «Jesus Loves Me»
+                <duracion>160</duracion>  </cancion>
+        	<cancion duracion="180">7 «Even If My Heart Would Break»
+                <duracion>180</duracion>  </cancion>
+        	<cancion duracion="270">8 «Someday (I'm Coming Back)»
+                <duracion>270</duracion>  </cancion>
+        	<cancion duracion="160">9 «It's Gonna Be A Lovely Day» 
+                <duracion>160</duracion> </cancion>
+        	<cancion duracion="280">10 «(What's So Funny 'Bout) Peace, Love And Understanding»
+                <duracion>280</duracion>  </cancion>
+        	<cancion duracion="180">11 «Waiting For You»
+                <duracion>180</duracion>  </cancion>
+        	<cancion duracion="120">12 «Trust In Me»
+                <duracion>120</duracion>  </cancion>
+        	<cancion duracion="140">13 «Theme From The Bodyguard»
+                <duracion>140</duracion> </cancion>
+        <selloDiscografico>Arista</selloDiscografico>
+        <añopublicacion>1992</añopublicacion>
+    </cd>
+    <cd>
+        <albumTitulo>Back in Black</albumTitulo>
+        <artista>AC/DC</artista>
+            <cancion duracion="120">1 «Hells Bells»
+                <duracion>120</duracion></cancion>
+            <cancion duracion="120">2 «Shoot to Thrill»
+                <duracion>120</duracion></cancion>
+            <cancion duracion="160">3 «What Do You Do for Money Honey»
+                <duracion>160</duracion></cancion>
+            <cancion duracion="160">4 «Givin the Dog a Bone»
+                <duracion>160</duracion></cancion>
+            <cancion duracion="270">5 «Let Me Put My Love Into You» 
+                <duracion>270</duracion></cancion>
+            <cancion duracion="160">6 «Back in Black»
+                <duracion>160</duracion></cancion>
+            <cancion duracion="140">7 «You Shook Me All Night Long»
+                <duracion>140</duracion></cancion>
+            <cancion duracion="120">8 «Have a Drink on Me»
+                <duracion>120</duracion></cancion>
+            <cancion duracion="170">9 «Shake a Leg»
+                <duracion>170</duracion></cancion>
+            <cancion duracion="180">10 «Rock 'n' Roll Ain't Noise Pollution»
+                <duracion>180</duracion></cancion>
+        <selloDiscografico>Harvest Records</selloDiscografico>
+        <añopublicacion>1980</añopublicacion>
+    </cd>
+    <cd>
+        <albumTitulo>Bat out of Hell</albumTitulo>
+        <artista>Meat Loaf</artista>
+            <cancion duracion="180">1 "Bat out of Hell" 
+                <duracion>180</duracion></cancion>
+            <cancion duracion="180">2 "You Took the Words Right Out of My Mouth (Hot Summer Night)" 
+                <duracion>180</duracion></cancion>
+            <cancion duracion="120">3 "Heaven Can Wait"  
+                <duracion>120</duracion></cancion>
+            <cancion duracion="160">4 "All Revved Up with No Place to Go"	 
+                <duracion>160</duracion></cancion>
+            <cancion duracion="100">5 "Two Out of Three Ain't Bad"  
+                <duracion>100</duracion></cancion>
+            <cancion duracion="120">6 "Paradise by the Dashboard Light"  
+                <duracion>120</duracion></cancion>
+            <cancion duracion="180">7 "For Crying Out Loud" 
+                <duracion>180</duracion></cancion>
+        <selloDiscografico>	Cleveland International Records</selloDiscografico>
+        <añopublicacion>1977</añopublicacion>
+    </cd>
+</cds>
